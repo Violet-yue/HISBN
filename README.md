@@ -1,2 +1,2 @@
 # HISBN
-Dependency-Aware-Consensus-Uniqueness-Fusion-via-Mutual-Information-Proxies-for-HSI-X-Classification
+The article is currently under review. The code will be made publicly available after the article is published. Please be patient.
